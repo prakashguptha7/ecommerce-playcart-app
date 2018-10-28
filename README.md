@@ -1,2 +1,2 @@
-# ecommerce-playcart-app
-creted by using nodejs,mongodb as database and handlebarjs(front-end templating view)
+# e-commerce-project
+E-Commerce project using Node.js, Express, MongoDB, Bootstrap 4 and Handlebars
